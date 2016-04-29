@@ -4,7 +4,7 @@
 #
 Name     : golang-github-shurcooL-sanitized_anchor_name
 Version  : 10ef21a441db47d8b13ebcc5fd2310f636973c77
-Release  : 1
+Release  : 2
 URL      : https://github.com/shurcooL/sanitized_anchor_name/archive/10ef21a441db47d8b13ebcc5fd2310f636973c77.tar.gz
 Source0  : https://github.com/shurcooL/sanitized_anchor_name/archive/10ef21a441db47d8b13ebcc5fd2310f636973c77.tar.gz
 Summary  : No detailed summary available
